@@ -1,7 +1,7 @@
 # GIS-PCT
 
 ## About The Project
-The GIS-PCT is an open source initiative aimed at enhancing the experiences of hikers and trail angels on the Pacific Crest Trail (PCT). Leveraging QGIS for mapping, Python for backend operations, and JavaScript for interactive user interfaces, this project delivers an engaging and informative dashboard. With a focus on smart data use and community engagement, the GIS-PCT ensures vital information about trail conditions, weather, and resources is freely accessible to improve outcomes for all trail users.
+The GIS-PCT is an open source initiative aimed at enhancing the experiences of hikers and trail angels on the Pacific Crest Trail (PCT). Leveraging QGIS for mapping, Python for backend operations, and JavaScript for interactive user interfaces, this project aims to deliver an engaging and informative dashboard. With a focus on smart data use and community engagement, the GIS-PCT ensures vital information about trail conditions, weather, and resources is freely accessible to improve outcomes for all trail users.
 
 ### Built With
 - **[QGIS](https://qgis.org)**: An open-source Geographic Information System for creating detailed maps.
@@ -36,3 +36,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 Project Link: [https://humble-pancake-x59gvv4w67v267rp.github.dev/](https://humble-pancake-x59gvv4w67v267rp.github.dev/)
+The Chester Hiker Hostel: [https://pfauha.us]
+Annika's AI Consultancy: [https://pfau.haus]
+git add README.md
